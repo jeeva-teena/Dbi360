@@ -3,3 +3,4 @@ import { UsernamePasswordAuthJSProvider, TinaUserCollection } from "tinacms-auth
 const isLocal = process.env.TINA_PUBLIC_IS_LOCAL === "true";
 require("ts-node").register();
 module.exports = require("./config.tsx");
+
