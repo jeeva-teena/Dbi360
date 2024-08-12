@@ -36,7 +36,7 @@
     "@tailwindcss/typography": "^0.5.8",
     "@tinacms/cli": "^1.5.45",
     "@tinacms/core": "^0.43.0",
-    "@tinacms/datalayer": "^1.2.35",
+    "@tinacms/datalayer": "^1.2.40",
     "@tinacms/fields": "^0.43.3",
     "@tinacms/form-builder": "^0.43.3",
     "@tinacms/forms": "^0.43.0",
@@ -60,7 +60,7 @@
     "swr": "^2.2.5",
     "tinacms": "^1.6.4",
     "tinacms-authjs": "^2.0.4",
-    "tinacms-gitprovider-github": "^1.0.6",
+    "tinacms-gitprovider-github": "^1.0.11",
     "typescript": "^4.5.2",
     "upstash-redis-level": "^1.1.1"
   }
